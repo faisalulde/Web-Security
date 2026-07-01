@@ -191,4 +191,4 @@ Completed 13/13 PortSwigger Access Control labs covering:
 - Multi-step process bypass (skipping authorization on final step)
 - Referer-based access control bypass
 
-Lab notes and scripts: [PortSwigger Repo](https://github.com/faisalulde/PortSwigger-Web-Security-Academy)
+Lab notes and scripts: [PortSwigger-Web-Security-Academy](https://github.com/faisalulde/PortSwigger-Web-Security-Academy)
