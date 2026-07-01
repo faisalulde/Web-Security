@@ -11,8 +11,8 @@ This repository grows with my career — content comes from PortSwigger Web Secu
 | Topic | Status |
 |---|---|
 | [Access Control](Access-Control/access-control.md) | Complete |
+| [Authentication](Authentication/authentication.md) | Complete |
 | SQL Injection | Coming Soon |
-| Authentication | Coming Soon |
 | Business Logic | Coming Soon |
 | XSS | Coming Soon |
 | SSRF | Coming Soon |
